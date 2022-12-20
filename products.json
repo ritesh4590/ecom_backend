@@ -1,0 +1,84 @@
+[
+    {
+        "name":"iphone",
+        "price":178,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"dell brook 10",
+        "price":231,
+        "feature":true,
+        "company":"dell"
+    },{
+        "name":"samsung duos",
+        "price":118,
+        "feature":false,
+        "company":"samsung"
+    },{
+        "name":"mi ultra pro",
+        "price":138,
+        "feature":true,
+        "company":"mi"
+    },{
+        "name":"iphone SE 6",
+        "price":176,
+        "feature":true,
+        "company":"apple"
+    },{
+        "name":"samsung guru",
+        "price":78,
+        "feature":true,
+        "company":"samsung"
+    },{
+        "name":"dell moderna",
+        "price":238,
+        "feature":true,
+        "company":"dell"
+    },{
+        "name":"iphone",
+        "price":178,
+        "feature":true,
+        "company":"apple"
+    },{
+        "name":"mi z1 pro",
+        "price":108,
+        "feature":false,
+        "company":"mi"
+    },{
+        "name":"dell dock2",
+        "price":168,
+        "feature":false,
+        "company":"dell"
+    },{
+        "name":"iphone pro 12",
+        "price":201,
+        "feature":true,
+        "company":"apple"
+    },{
+        "name":"samsung s9",
+        "price":121,
+        "feature":false,
+        "company":"samsung"
+    },{
+        "name":"mi z1",
+        "price":118,
+        "feature":true,
+        "company":"mi"
+    },{
+        "name":"Dell d12",
+        "price":191,
+        "feature":false,
+        "company":"dell"
+    },{
+        "name":"samsung s10",
+        "price":109,
+        "feature":false,
+        "company":"samsung"
+    },{
+        "name":"iphone 10",
+        "price":198,
+        "feature":true,
+        "company":"apple"
+    }
+]
